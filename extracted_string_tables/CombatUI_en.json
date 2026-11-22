@@ -1,0 +1,406 @@
+[
+  {
+    "id": 2937093963776,
+    "text": "Talk",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937156878336,
+    "text": "Attack",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072640,
+    "text": "Use",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072641,
+    "text": "Equip",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072642,
+    "text": "Roll",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072643,
+    "text": "Talk reason into your opponent, de-escalate the situation.",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072644,
+    "text": "Attack your opponent, wield violence to defeat them.",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072645,
+    "text": "Use items to gain an advantage.",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072646,
+    "text": "ENEMY TURN",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072647,
+    "text": "Your Health Points. If they get to 0, you die.",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072648,
+    "text": "Opponent's Health Points. If you lower them to 0, you will triumph with violence.",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072649,
+    "text": "Your Threat. If it is higher than your opponent's, you can attempt to Force Surrender.",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072650,
+    "text": "Your opponent's Threat. If it is lower than yours, you can attempt to Force Surrender.",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072651,
+    "text": "Attempt a Force Surrender roll. If successful, your opponent will surrender. Available only when your Threat is higher than your opponent's.",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072652,
+    "text": "Force Surrender",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072653,
+    "text": "[Reasonable]",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072654,
+    "text": "[Sensible]",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072655,
+    "text": "[Subversive]",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072656,
+    "text": "[Persuasive]",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 2937161072657,
+    "text": "[Aggressive]",
+    "metadata": {
+      "m_Items": [
+        {
+          "rid": 7286877535280041706
+        }
+      ]
+    }
+  },
+  {
+    "id": 2937161072658,
+    "text": "Attack your opponent with your <b>{itemName}</b>. {itemDescription}. Attacks can crit.",
+    "metadata": {
+      "m_Items": [
+        {
+          "rid": 7286877535280041706
+        }
+      ]
+    }
+  },
+  {
+    "id": 2937161072659,
+    "text": "Use <b>{itemName}</b>. \\n{itemDescription}.",
+    "metadata": {
+      "m_Items": [
+        {
+          "rid": 7286877535280041706
+        }
+      ]
+    }
+  },
+  {
+    "id": 15153503485952,
+    "text": "Is using a d6",
+    "metadata": {
+      "m_Items": [
+        {
+          "rid": 7286877535280041706
+        }
+      ]
+    }
+  },
+  {
+    "id": 26504510652416,
+    "text": "Your opponent's <b>{ideology}</b>. \n\nInfluence the effectiveness of Talk Approach.\n\n<b>{state}</b> ({description})",
+    "metadata": {
+      "m_Items": [
+        {
+          "rid": 7286877535280041706
+        }
+      ]
+    }
+  },
+  {
+    "id": 26504510652417,
+    "text": "Attempt the <b>{approach}</b> Approach with a <b>{dice}</b>.\n<b>{consequence}</b>.\n\nLower this Approach's dice. \nIncrease all other Approaches's dice.",
+    "metadata": {
+      "m_Items": [
+        {
+          "rid": 7286877535280041706
+        }
+      ]
+    }
+  },
+  {
+    "id": 26504510652418,
+    "text": "Unavailable Approach.",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 42657354170368,
+    "text": "COUNTER TURN",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 1081377851260928,
+    "text": "Unknown",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 1081377893203968,
+    "text": "Doubt",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 1081377893203969,
+    "text": "Belief",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 1081377893203970,
+    "text": "Neutral",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 1081377893203971,
+    "text": "Ineffective Approach",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 1081377893203972,
+    "text": "Effective Approach",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 1081377893203973,
+    "text": "Not Effective Approach",
+    "metadata": {
+      "m_Items": [
+        {
+          "rid": 7286877535280041706
+        }
+      ]
+    }
+  },
+  {
+    "id": 1089760021004288,
+    "text": "Deal <b>{ideologyValue} + dice roll</b> Threat Damage",
+    "metadata": {
+      "m_Items": [
+        {
+          "rid": 7286877535280041706
+        }
+      ]
+    }
+  },
+  {
+    "id": 1089760025198592,
+    "text": "Deal <b>{ideologyValue} + dice roll - {enemyIdeologyValue}*2</b> Threat Damage",
+    "metadata": {
+      "m_Items": [
+        {
+          "rid": 7286877535280041706
+        }
+      ]
+    }
+  },
+  {
+    "id": 1089760025198593,
+    "text": "Deal <b>{ideologyValue} + dice roll - {enemyIdeologyValue}</b> Threat Damage",
+    "metadata": {
+      "m_Items": [
+        {
+          "rid": 7286877535280041706
+        }
+      ]
+    }
+  },
+  {
+    "id": 1089760025198594,
+    "text": "<b>Consequence Unknown</b>",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 10110165868167168,
+    "text": "Back",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 10111176141783040,
+    "text": "YOUR TURN",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 11170123611193344,
+    "text": "You are using...",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 13013694446387200,
+    "text": "Punch",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 13818858983997440,
+    "text": "Enemy Neutral",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 13818859025940480,
+    "text": "Enemy Doubt",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 13818859025940481,
+    "text": "Enemy Belief",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 14057537975435264,
+    "text": "Unknown Approach",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 15918957918765056,
+    "text": "Success",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 15918957960708096,
+    "text": "Failure",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 54698481179246592,
+    "text": "Edgar",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 54698593964081152,
+    "text": "Knife",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 74953051432108032,
+    "text": "Focus",
+    "metadata": {
+      "m_Items": []
+    }
+  },
+  {
+    "id": 74953051478245376,
+    "text": "Avoid",
+    "metadata": {
+      "m_Items": []
+    }
+  }
+]
